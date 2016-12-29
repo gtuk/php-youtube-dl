@@ -2,6 +2,8 @@ php-youtube-dl
 ==============
 A simple php wrapper for youtube-dl.
 
+[![Build Status](https://travis-ci.org/gtuk/php-youtube-dl.svg?branch=master)](https://travis-ci.org/gtuk/php-youtube-dl)
+
 **This guide assumes you have youtube-dl installed.**
 
 Installation
